@@ -1,5 +1,5 @@
 ## CSC 3400 Artifical Intelligence
-## Assignment 3: Recommenders
+## Assignment 3: Movie Recommenders
 
 import pandas as pd
 import numpy as np
